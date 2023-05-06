@@ -1,52 +1,109 @@
 {
-  "Color": "#FF5733",
+  "Color": "#37bcf9",
   "Head": {
-    "title": "Jhon Doe | Frontend Developer & Designer",
-    "NavbarName": "Jhon Doe"
+    "title": "Rushik Rathod",
+    "NavbarName": "Rushik Rathod"
   },
   "HomePage": {
-    "name": "Jhon Doe",
-    "Position": ["Position 1", "Position 2", "Position 3", "Position 4"],
-    "description": "I design and build websites that look good, and work well."
+    "name": "Rushik Rathod",
+    "Position": [
+      "Software Engineer",
+      "Anchor",
+      "",
+      ""
+    ],
+    "description": "Flutter Developer"
   },
   "AboutPage": {
-    "AboutParagraph": "I am a frontend developer and designer with a passion for creating beautiful and user-friendly websites and applications. I have a strong background in both web development and graphic design, and I enjoy using my skills to create stunning websites and interfaces that are easy to use and navigate.In my previous work, I have designed and developed websites for a variety of clients, including small businesses, non-profit organizations, and large corporations. I have also created mobile applications and responsive websites that are compatible with a variety of devices and screen sizes. My goal is always to create websites and applications that are visually appealing and user-friendly, and I believe that my skills and experience make me an excellent frontend developer and designer.",
-    "ImageLink": "https://cdn.vectorstock.com/i/1000x1000/23/81/default-avatar-profile-icon-vector-18942381.webp"
+    "AboutParagraph": "I'm a mobile application developer with a passion for creating innovative and user-friendly experiences. I have been working in the field for 2 years, and my primary expertise lies in developing mobile applications using the Flutter framework.",
+    "ImageLink": "https://avatars.githubusercontent.com/u/101036053?v=4"
   },
-  "Skills": ["Html", "Bootstrap", "Figma"],
+  "Skills": [
+    "C++",
+    "Flutter",
+    "DSA",
+    "React Native"
+  ],
   "Projects": [
     {
-      "title": "Project Title1",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name1",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title2",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name2",
-      "Technologies": ["REACT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 2 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title3",
-      "ImageLink": "/",
+      "title": "Let's do it!",
+      "ImageLink": "",
       "Status": "Working On it",
-      "ProjectName": "Project Name3",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 3 ",
-      "DemoLink": ""
+      "ProjectName": "Let's do it!",
+      "Technologies": [
+        "Flutter",
+        "Dart",
+        "Hive-Database"
+      ],
+      "Description": "To-Do App is a flutter-based mobile application developed to help people to track their daily tasks and accomplish them within a deadline.",
+      "DemoLink": "https://github.com/rushik008/To-Do-App"
+    },
+    {
+      "title": "Helping Hands",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "Helping Hands",
+      "Technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "Description": "‘Helping Hands’ application is a step for the betterment of the world with easy steps involved. It is a completely fledged application with functionalities including placing orders, waiting for confirmation, and making the user experience immersive and fruitful to help people in need of food.",
+      "DemoLink": "https://github.com/rushik008/Helping-Hands"
+    },
+    {
+      "title": "World Time",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "World Time",
+      "Technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "Description": "World Time app is based on the Flutter framework developed to learn Flutter. It uses real-time API to display the current time of various world locations.",
+      "DemoLink": "https://github.com/rushik008/World-Time"
+    },
+    {
+      "title": "Quick Note",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "Quick Note",
+      "Technologies": [
+        "Flutter",
+        "Dart",
+        "Hive"
+      ],
+      "Description": "'Quick Note' is a mobile application based on Flutter to make quick notes of daily tasks, events, etc.",
+      "DemoLink": "https://github.com/rushik008/Quick-Note"
+    },
+    {
+      "title": "Instagram Clone",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "Instagram Clone",
+      "Technologies": [
+        "React Native",
+        "Javascript"
+      ],
+      "Description": "Instagram-Clone front-end is developed using React Native framework to explore various aspects of React Native cross-platform development.",
+      "DemoLink": "https://github.com/rushik008/Instagram-Clone"
+    },
+    {
+      "title": "B.Tech. Computer Science Notes",
+      "ImageLink": "",
+      "Status": "Working On it",
+      "ProjectName": "B.Tech. Computer Science Notes",
+      "Technologies": [
+        "Creative Writing"
+      ],
+      "Description": "This repository is created in order to share the resources of all the subjects related to Computer Science and Engineering.",
+      "DemoLink": "https://github.com/rushik008/B.Tech.-Computer-Science-Notes-Materials"
     }
   ],
   "Contact": {
-    "Email": "johndoe@gmail.com",
-    "Github": "https://github.com/johndoe",
-    "Twitter": "https://twitter.com/johndoe",
-    "LinkedIn": "https://linkedin.com/in/johndoe"
+    "Email": "rathodrushikr@gmail.com",
+    "Github": "https://github.com/rushik008",
+    "Twitter": "https://twitter.com/rushik008",
+    "linkedIn": "https://www.linkedin.com/in/rushik008"
   }
 }
